@@ -2,6 +2,10 @@
 
 Learning resources for Swift for Data Science
 
+# Why Swift for Data Science?
+
+Swift is a better, faster, safer language than Python. Python has a rich ecosystem of libraries and tools, but these are available for use from within Swift programs thanks to an interoperability construct. [Read more]() (TODO)
+
 # Swift Language
 
 The easiest, quickest way to start:
@@ -11,7 +15,6 @@ Pick one of these:
 - [Treehouse]()
 - [We ❤️ Swift](https://www.weheartswift.com/)
 - [Swift for Beginners](https://www.youtube.com/watch?v=comQ1-x2a1Q) - FreeCodeCamp, YouTube
-- 
 
 # SQL
 - [Treehouse]()
@@ -27,7 +30,6 @@ Pick one of these:
 
 
 # Misc Notes
-- [Swift for Data Science](https://medium.com/eliiza-ai/swift-for-data-science-2edbff9bc19e) - Includes some 
-- 
+- [Swift for Data Science](https://medium.com/eliiza-ai/swift-for-data-science-2edbff9bc19e) - Includes some links to Swift libraries for data science
 
 
