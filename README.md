@@ -11,6 +11,9 @@ Swift is a better, faster, safer language than Python. Python has a rich ecosyst
 The easiest, quickest way to start:
 - [A Swift Tour](https://colab.research.google.com/github/tensorflow/swift/blob/master/docs/site/tutorials/a_swift_tour.ipynb)
 
+Here's a quick language reference (great if you already know how to program):
+- [Learn X in Y Minutes (Swift)](https://learnxinyminutes.com/docs/swift/)
+
 Pick one of these:
 - [Treehouse]()
 - [We ❤️ Swift](https://www.weheartswift.com/)
