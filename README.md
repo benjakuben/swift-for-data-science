@@ -34,5 +34,4 @@ Pick one of these:
 
 # Misc Notes
 - [Swift for Data Science](https://medium.com/eliiza-ai/swift-for-data-science-2edbff9bc19e) - Includes some links to Swift libraries for data science
-
-
+- [Understanding Swift for TensorFlow](https://towardsdatascience.com/machine-learning-with-swift-for-tensorflow-9167df128912)
